@@ -42,7 +42,7 @@ This business dashboard is like a one-stop shop for everyone involved (stakehold
    - **Role of Report:** Present key metrics such as sales revenue, gross margin, and profitability/growth matrix from a marketing perspective, enabling stakeholders to assess the effectiveness of marketing campaigns.
 
 ### 4. Supply Chain View: 
-- [x] Supply Chain View Dashboard: [PDF](https://github.com/NadeeshaTharangani/Business-Insights-360/blob/main/Business%20Insight%20360-Financial%20View.pdf)
+- [x] Supply Chain View Dashboard: [PDF](https://github.com/NadeeshaTharangani/Business-Insights-360/blob/main/Business%20Insight%20360-Supply%20Chain%20View.pdf)
 
    - **Objective:** Evaluate the performance and efficiency of supply chain operations.
      
