@@ -64,7 +64,7 @@ This business dashboard is like a one-stop shop for everyone involved (stakehold
 
 ## Data Model:
 <p align="center">
-  <img src="https://github.com/anisarsad/Business-Insights-360/blob/main/Data%20Model.png" height="400">
+  <img src="https://github.com/NadeeshaTharangani/Business-Insights-360/blob/main/Data%20Model.PNG" height="400">
 </p>
 
 ## Technical & Soft Skills:
