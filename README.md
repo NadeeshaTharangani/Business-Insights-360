@@ -20,6 +20,7 @@ This business dashboard is like a one-stop shop for everyone involved (stakehold
    - **Role of Report:** Present key sales metrics such as net sales, gross margin, and profitability/growth matrix, enabling stakeholders to make informed decisions regarding sales strategies and resource allocation.
 
 ### 2. Sales View: 
+- [x] Sales View Dashboard: [PDF](https://github.com/NadeeshaTharangani/Business-Insights-360/blob/main/Business%20Insight%20360-Financial%20View.pdf)
 
    - **Objective:** Gain insights into the company's sales performance.
      
@@ -30,6 +31,7 @@ This business dashboard is like a one-stop shop for everyone involved (stakehold
    - **Role of Report:** Present key sales metrics such as net sales, gross margin, and profitability/growth matrix, enabling stakeholders to track sales performance and make data-driven decisions.
 
 ### 3. Marketing View: 
+- [x] Marketing View Dashboard: [PDF](https://github.com/NadeeshaTharangani/Business-Insights-360/blob/main/Business%20Insight%20360-Financial%20View.pdf)
 
    - **Objective:** Evaluate the impact of marketing efforts on sales revenue.
      
@@ -40,6 +42,7 @@ This business dashboard is like a one-stop shop for everyone involved (stakehold
    - **Role of Report:** Present key metrics such as sales revenue, gross margin, and profitability/growth matrix from a marketing perspective, enabling stakeholders to assess the effectiveness of marketing campaigns.
 
 ### 4. Supply Chain View: 
+- [x] Supply Chain View Dashboard: [PDF](https://github.com/NadeeshaTharangani/Business-Insights-360/blob/main/Business%20Insight%20360-Financial%20View.pdf)
 
    - **Objective:** Evaluate the performance and efficiency of supply chain operations.
      
@@ -50,7 +53,7 @@ This business dashboard is like a one-stop shop for everyone involved (stakehold
    - **Role of Report:** Present key supply chain metrics such as forecast accuracy, net error, and risk profile, enabling stakeholders to assess supply chain performance and make data-driven decisions.
 
 ### 5. Executive View: 
-
+- [x] Executive View Dashboard: [PDF](https://github.com/NadeeshaTharangani/Business-Insights-360/blob/main/Business%20Insight%20360-Financial%20View.pdf)
    - **Objective:** Provide a high-level overview of the company's performance.
      
    - **Purpose:** Enable executives access to top-level insights across various business functions.
