@@ -3,7 +3,7 @@
 ## Objective: 
 This business dashboard is like a one-stop shop for everyone involved (stakeholders) to track key measures (KPIs) across different areas of the company (finance, sales, marketing,supply chain, executive). It pulls data from everywhere to give clear pictures of trends and what's working well.By aggregating data from various sources, this dashboard aims to facilitate data-driven decision-making, identify trends, and uncover actionable insights to drive business growth and efficiency.
 
-- [x] Home Page Dashboard: [PDF](https://github.com/anisarsad/Business-Insights-360/blob/main/Business_insights_360.pdf)
+- [x] Home Page Dashboard: [PDF](https://github.com/NadeeshaTharangani/Business-Insights-360/blob/main/Business%20Insight%20360-Home%20Page.pdf)
 
 
 ## Dashboard Dimensions:
