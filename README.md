@@ -53,7 +53,7 @@ This business dashboard is like a one-stop shop for everyone involved (stakehold
    - **Role of Report:** Present key supply chain metrics such as forecast accuracy, net error, and risk profile, enabling stakeholders to assess supply chain performance and make data-driven decisions.
 
 ### 5. Executive View: 
-- [x] Executive View Dashboard: [PDF](https://github.com/NadeeshaTharangani/Business-Insights-360/blob/main/Business%20Insight%20360-Financial%20View.pdf)
+- [x] Executive View Dashboard: [PDF](https://github.com/NadeeshaTharangani/Business-Insights-360/blob/main/Business%20Insight%20360-Executive%20View.pdf)
    - **Objective:** Provide a high-level overview of the company's performance.
      
    - **Purpose:** Enable executives access to top-level insights across various business functions.
