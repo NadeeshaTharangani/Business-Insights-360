@@ -31,7 +31,7 @@ This business dashboard is like a one-stop shop for everyone involved (stakehold
    - **Role of Report:** Present key sales metrics such as net sales, gross margin, and profitability/growth matrix, enabling stakeholders to track sales performance and make data-driven decisions.
 
 ### 3. Marketing View: 
-- [x] Marketing View Dashboard: [PDF](https://github.com/NadeeshaTharangani/Business-Insights-360/blob/main/Business%20Insight%20360-Financial%20View.pdf)
+- [x] Marketing View Dashboard: [PDF](https://github.com/NadeeshaTharangani/Business-Insights-360/blob/main/Business%20Insight%20360-Market%20View.pdf)
 
    - **Objective:** Evaluate the impact of marketing efforts on sales revenue.
      
