@@ -8,7 +8,7 @@ This business dashboard is like a one-stop shop for everyone involved (stakehold
 
 ## Dashboard Dimensions:
 
-### 1. Finance View: 
+### 1. Finance View: [x] [PDF](https://github.com/NadeeshaTharangani/Business-Insights-360/blob/main/Business%20Insight%20360-Home%20Page.pdf)
 
    - **Objective:** Provide a comprehensive understanding of the company's financial performance through P&L Statement.
      
